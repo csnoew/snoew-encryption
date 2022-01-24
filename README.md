@@ -4,5 +4,4 @@ snoew encryption v1.0
 
 Compatible with the latin alphabet and numbers.
 
-
 Coded in PyCharm
