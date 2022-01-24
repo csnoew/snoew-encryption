@@ -6,7 +6,7 @@ The program is compatible with every letter in the latin alphabet, as well as al
 ```markdown
 alphabet: str = "abcdefghijklmnopqrstuvwxyzæøå1234567890,.- "
 ```
-You need to make sure to keep the space at the end of the string, as it is also considered a character.
+Make sure to keep the space at the end of the string, as it is also considered a character.
 
 ### Support or Contact
 If you need any additional help you can message me on social media or [write an email.](mailto:mathiaslaprivat@gmail.com)
