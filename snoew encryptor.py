@@ -10,7 +10,7 @@ high = 100000000000
 output = ""
 
 # watermark lol
-print(" > snoew decryptor v1.0")
+print(" > snoew encryptor v1.0")
 
 # input
 key = input("Encryption key (type 0 for no key): ")
