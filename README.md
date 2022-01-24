@@ -1,4 +1,4 @@
-# snoew encryption v1.0
+## snoew encryption v1.0
 A safe and easy to use encryptor and decryptor with 1.000.000.000.000.000.000 different combinations for each letter.
 It's compatible with every letter in the latin alphabet as well as all the numbers.
 
