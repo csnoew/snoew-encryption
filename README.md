@@ -2,7 +2,7 @@
 A safe and easy to use encryptor and decryptor with 1.000.000.000.000.000.000 different combinations for each letter. It's compatible with every letter in the latin alphabet as well as all the numbers.
 
 ### Download
-This program requires [python 3.10.2](https://www.python.org/downloads/) or older to be installed. The source code can be viewed at the [github repository](https://github.com/csnoew/snoew-encryption/) where you can also install the program.
+This program requires [Python 3.10.2](https://www.python.org/downloads/) or older to be installed. The source code can be viewed at the [Github Repository](https://github.com/csnoew/snoew-encryption/) where you can also install the program.
 
 ### Adding your own letters to the encryptor
 Every letter can automatically be encrypted, but if you are decrypting a message with an unsupported letter the program will crash, you can add a letter by going to the *snoew decryptor.py* where you will add the letters to the string named *alphabet* on line 23:
