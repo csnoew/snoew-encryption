@@ -1,0 +1,5 @@
+print(" > snoew decryptor v1.0")
+open('encryptions.txt', 'w').close()
+open('decryptions.txt', 'w').close()
+print("Logs cleared")
+input("Press enter to exit...")

@@ -10,7 +10,7 @@ high = 100000000000
 output = ""
 
 # watermark lol
-print(" > snoew encryptor v1.0")
+print(" > snoew decryptor v1.0")
 
 # input
 key = input("Encryption key (type 0 for no key): ")
@@ -36,6 +36,11 @@ while i < len(unencrypted):
     output = output + str(let) + " "
     i = i + 1
 
+
+txt= open("encryptions.txt","a")
+txt.write("key = " + str(key) + '\n')
+txt.write("message = " + str(output) + '\n' + '\n')
+txt.close()
 print("")
 print("-------------------")
 print("Encryption complete")
