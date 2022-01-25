@@ -20,7 +20,7 @@ except ValueError:
     sys.exit()
 
 encrypted: str = input("Message to decrypt: ")
-alphabet: str = "abcdefghijklmnopqrstuvwxyzæøå1234567890,.- "
+alphabet: str = "abcdefghijklmnopqrstuvwxyzæøå1234567890,.-<>_?!#¤%&/()=+*^~¨´`|}][{$£@½§\:;' "
 i: int = -1
 g: int = 0
 
